@@ -9,4 +9,4 @@ This website will be a repository for the beginning of my thesis about Reconstru
 - January 26, 2021: Changed direction of project goals after a consultation with the History Librarian to look more pedagogical influences of Lost Cause pedagogy and the effect The United Daughters of the Confederacy had on current Reconstruction pedagogy. 
 - January 28, 2021: Looking for documentation and sources to use support my research for my thesis and this project. 
 - January 30, 2021: Using the database History Vault to find documents. 
-- February 2, 2021: Cleaning documents. 
+- February 7, 2021: Cleaning documents. 
