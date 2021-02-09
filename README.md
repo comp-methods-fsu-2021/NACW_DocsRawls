@@ -11,5 +11,10 @@ This website will be a repository for the beginning of my thesis about Reconstru
 - January 28, 2021: Looking for documentation and sources to use support my research for my thesis and this project. 
 - January 30, 2021: Using the database History Vault to find documents. 
 - February 7, 2021: Uploaded new documents. 
-- February 8, 2021: Cleaning documents. 
+- February 8, 2021: Cleaning documents. Deleted NACW Papers and renamed project. 
+
+## Text Cleaning Documentation 
+1. Removed: ## p. (#1) ################################################## and other page numbers/hashtags. 
+2. Removed symbols like: $ Dou. ,  x^ ,  tilt •-■.. ~ ,  e Y**jk Collection 
+3. Removed extra lines
 
