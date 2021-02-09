@@ -1,7 +1,7 @@
 # Reconscruction Pedagogy Project 
 Analyzing The United Daughters of the Confederacy Constitution for pedagogical policies perpetuating Lost Cause mythology during Reconstruction.
 ## Purpose 
-This website will be a repository for the beginning of my thesis about Reconstruction pedagogy. My thesis will look at current (published in the last 20 years) textbooks used in middle school history/social studies classes from across different states and compare them. I'll also look at documents from the Lost Cause narrative that was driven in part by The United Daughters of the Confederacy. The documents include the meeting minutes, convention notes and UDC's constitution. While looking at the papers of UDC, I'll also look at the papers of The National Association of Colored Women papers to see if they have any pedagogical influence on schools where Black children were taught.
+This website will be a repository for the beginning of my thesis about Reconstruction pedagogy. My thesis will look at textbooks published in the early 20th century while also looking at policy and documentation from The United Daughters of the Confederacy. My goal will be to find policy in UDC's documents and align them with the textbooks used in the 20th century. Eventually I will begin to look for Lost Cause mythology in those textbooks and in UDC policy. I would like to look at states education policies during the 20th century to see how history and Reconstruction was discussed and taught. The documents include the meeting minutes, convention notes and UDC's constitution. 
 ## Documents 
 - National Association of Colored Women Second Convention 
 - The United Daughters of the Confederacy Constitution 
