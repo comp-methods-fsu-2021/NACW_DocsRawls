@@ -6,6 +6,7 @@ This website will be a repository for the beginning of my thesis about Reconstru
 - The United Daughters of the Confederacy Constitution, 1895. 
 - Eppes, Susan Through Some Eventful Years, 1845. 
 - Minutes from the 32nd Annual Convention of The United Daughters of the Confederacy, 1925. 
+- A Measuring Rod to Test Textbooks and Reference Books in Schools, Colleges and Libraries by Mildred Lewis Rutherford
 
 ## Progress 
 - January 26, 2021: Changed direction of project goals after a consultation with the History Librarian to look more pedagogical influences of Lost Cause pedagogy and the effect The United Daughters of the Confederacy had on current Reconstruction pedagogy. 
@@ -13,6 +14,7 @@ This website will be a repository for the beginning of my thesis about Reconstru
 - January 30, 2021: Using the database History Vault to find documents. 
 - February 7, 2021: Uploaded new documents. 
 - February 8, 2021: Cleaning documents. Deleted NACW Papers and renamed project. 
+- February 9, 2021: Uploaded new document, will be one or two main text I will work with. 
 
 ## Text Cleaning Documentation 
 1. Removed: ## p. (#1) ################################################## and other page numbers/hashtags. 
