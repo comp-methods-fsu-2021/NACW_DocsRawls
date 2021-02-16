@@ -17,7 +17,5 @@ This website will be a repository for the beginning of my thesis about Reconstru
 - February 9, 2021: Uploaded new document, will be one or two main text I will work with. 
 
 ## Text Cleaning Documentation 
-1. Removed: ## p. (#1) ################################################## and other page numbers/hashtags. 
-2. Removed symbols like: $ Dou. ,  x^ ,  tilt •-■.. ~ ,  e Y**jk Collection 
-3. Removed extra lines
+- view Text Cleaning.md document 
 
