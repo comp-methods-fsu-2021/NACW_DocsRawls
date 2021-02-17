@@ -15,6 +15,9 @@ This website will be a repository for the beginning of my thesis about Reconstru
 - February 7, 2021: Uploaded new documents. 
 - February 8, 2021: Cleaning documents. Deleted NACW Papers and renamed project. 
 - February 9, 2021: Uploaded new document, will be one or two main text I will work with. 
+- February 12, 2021: Meeting with DH Librarian Sarah Stanley to help understand Sublime Text and cleaning up data. Downloaded Sublime Text, uploaded files, cleaned up data for 2 textbooks.
+- February 15, 2021: Meeting with DH Librarian Sarah Stanley to help understanding tabular data, downloaded OpenRefined, made table. 
+- February 16, 2021: Met with DH Librarian Sarah Stanley and Will Hanley to discuss project, progression. Need to find more textbooks. Updated metadata about Through some eventful years in OpenRefine/Breve and made very simple tables to play around with digital tools. 
 
 ## Text Cleaning Documentation 
 - view Text Cleaning.md document 
