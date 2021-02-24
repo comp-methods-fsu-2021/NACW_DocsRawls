@@ -20,7 +20,7 @@ This website will be a repository for the beginning of my thesis about Reconstru
 - February 16, 2021: Met with DH Librarian Sarah Stanley and Will Hanley to discuss project, progression. Need to find more textbooks. Updated metadata about Through some eventful years in OpenRefine/Breve and made very simple tables to play around with digital tools. 
 - February 20, 2021: Found two textbooks and UDC Meeting Minutes that discussed textbook adoption.
 - February 22, 2021: Met with DH Librarian Sarah Stanley where we discussed cleaning the meeting minutes document and Sarah helped me understand how to clean up the document in SublimeText. I decided to table the treasury notes on OpenRefine. 
-- February 23, 2021: Cleaning up meeting minutes text and making a table in OpenRefine. 
+- February 23, 2021: Cleaning up meeting minutes text and trying to make a table (exercise 5) in OpenRefine, but so far unsuccessful. I think I'll have more luck with it comes to text mining, especially if I'm able to upload the additional textbooks I found. 
 
 ## Text Cleaning Documentation 
 - view Text Cleaning.md document 
