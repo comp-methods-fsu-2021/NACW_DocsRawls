@@ -23,7 +23,12 @@ This website will be a repository for the beginning of my thesis about Reconstru
 - February 23, 2021: Cleaning up meeting minutes text and trying to make a table (exercise 5) in OpenRefine, but so far unsuccessful. I think I'll have more luck with it comes to text mining, especially if I'm able to upload the additional textbooks I found. 
 - February 28, 2021: Began playing around with website building and tried to build a website using The Programming Historian 'Build a Static Site' page with no luck. Began building a Google site page, unpublished and cannot share. 
 - March 1, 2021: Added GitHub.io page.
+- March 9, 2021: Tried topic modeling with Voyant. Wrong brief blog (below) about reference models. 
 
 ## Text Cleaning Documentation 
 - view Text Cleaning.md document 
+
+## Exerise 8 - Topic Modeling 
+- I used State of the Union Messages from The American Presidency Project for this exercise. I put the text of the messages from 1865 to 1870 in Sublime Text, then started a spreadsheet that contained metadata such as the date of the message, who gave the message, and how many times certain words such as 'Union', 'Confederation', 'Reconstruction' were used in each message. After making a table I updated it onto Voyant. 
+- In reference to Underwood, I understand what he's trying to do in regards to gender and genre with his topic modeling. The context he uses and describes in chapter 4 seem like they are useful if you have a clear understanding of what your research question is and how using predictive modeling can be useful. What I don't understand is who is this for? Who has these questions about gender in genre and if those questions are there, wouldn't be it just as useful (maybe more) to read the book? I don't understand what his tables are for. I've uploaded this bried blog to my md record as opposed to a website because I've haven't set up the website. 
 
