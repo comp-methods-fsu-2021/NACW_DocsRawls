@@ -24,6 +24,8 @@ This website will be a repository for the beginning of my thesis about Reconstru
 - February 28, 2021: Began playing around with website building and tried to build a website using The Programming Historian 'Build a Static Site' page with no luck. Began building a Google site page, unpublished and cannot share. 
 - March 1, 2021: Added GitHub.io page.
 - March 9, 2021: Tried topic modeling with Voyant. Wrong brief blog (below) about reference models. 
+- March 15, 2021: Wikidata and Wikipedia information on the topics of the Reconstruction Era and The United Daughters of the Confederacy. 
+- March 16, 2021: Added Exercise 10 summary (below). 
 
 ## Text Cleaning Documentation 
 - view Text Cleaning.md document 
@@ -31,4 +33,7 @@ This website will be a repository for the beginning of my thesis about Reconstru
 ## Exerise 8 - Topic Modeling 
 - I used State of the Union Messages from The American Presidency Project for this exercise. I put the text of the messages from 1865 to 1870 in Sublime Text, then started a spreadsheet that contained metadata such as the date of the message, who gave the message, and how many times certain words such as 'Union', 'Confederation', 'Reconstruction' were used in each message. After making a table I updated it onto Voyant. 
 - In reference to Underwood, I understand what he's trying to do in regards to gender and genre with his topic modeling. The context he uses and describes in chapter 4 seem like they are useful if you have a clear understanding of what your research question is and how using predictive modeling can be useful. What I don't understand is who is this for? Who has these questions about gender in genre and if those questions are there, wouldn't be it just as useful (maybe more) to read the book? I don't understand what his tables are for. I've uploaded this bried blog to my md record as opposed to a website because I've haven't set up the website. 
+
+## Exercise 10 - Wikidata Report
+- I followed the directions for the assignment and found Wikidata to be a useful and easy-to-use resource. I played around with Wikidata using the terms 'Reconstruction Era' and 'United Daughters of the Confederacy' and found the queries useful. I added one reference to the UDC Wikidata, a reference URL to the Encyclopedia Virginia ID. When searching the term 'Reconstruction Era' as a significant event, 8 results showed. The results were all names. I downloaded a CSV file of the names, but I'm unsure of the usefulness of this information. 
 
