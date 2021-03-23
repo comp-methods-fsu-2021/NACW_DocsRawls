@@ -26,6 +26,9 @@ This website will be a repository for the beginning of my thesis about Reconstru
 - March 9, 2021: Tried topic modeling with Voyant. Wrong brief blog (below) about reference models. 
 - March 15, 2021: Wikidata and Wikipedia information on the topics of the Reconstruction Era and The United Daughters of the Confederacy. 
 - March 16, 2021: Added Exercise 10 summary (below). 
+- March 21, 2021: Began working on tabbed data following meeting with Dr. Hanley. Working in Excel and collecting metadata from "Through The Some Eventful Years" by Susan Bradford Eppes. This is one of the textbooks approved by the United Daughters of the Confederacy. Collecting metadata about the chapters (title, word count, author, date, etc). then going through each chapter and collection data about the rhetorical aspects of each chapter. 
+- March 22, 2021: Continiung work from March 21st. 
+- March 23, 2021: Continiung work from March 21st. 
 
 ## Text Cleaning Documentation 
 - view Text Cleaning.md document 
