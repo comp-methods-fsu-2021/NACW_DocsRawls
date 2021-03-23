@@ -10,12 +10,16 @@
 1. Removed \n and ## to make it continuous space.  
 * Through Some Eventful Years: 
 1. Removed \n 
+2. Removed ##  p. 
+3. Removed ## #s s  s 
+4. Removed s s 
+5. Began searching for rhetorical aspects of textbook. 
 * United Daughters of the Confederacy Meeting Minutes 
-1. Slowly removing extra line breaks, #, characters describing pictures/emblems
-2. In SublimeText working with pages 23-42 for tabling, these are the some of the treasury notes in the document. 
-3. Using Find: \$ to remove '$'Replacing with \n 
-4. Find: \n & replace
-5. removing odd characters
+6. Slowly removing extra line breaks, #, characters describing pictures/emblems
+7. In SublimeText working with pages 23-42 for tabling, these are the some of the treasury notes in the document. 
+8. Using Find: \$ to remove '$'Replacing with \n 
+9. Find: \n & replace
+10. removing odd characters
 
 
 # Notes 
