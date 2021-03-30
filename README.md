@@ -29,6 +29,7 @@ This website will be a repository for the beginning of my thesis about Reconstru
 - March 21, 2021: Began working on tabbed data following meeting with Dr. Hanley. Working in Excel and collecting metadata from "Through The Some Eventful Years" by Susan Bradford Eppes. This is one of the textbooks approved by the United Daughters of the Confederacy. Collecting metadata about the chapters (title, word count, author, date, etc). then going through each chapter and collection data about the rhetorical aspects of each chapter. 
 - March 22, 2021: Continiung work from March 21st. 
 - March 23, 2021: Continiung work from March 21st. 
+- March 26-30, 2021: Contining to collect data from Eppes textbook. Meeting with DH Librarian Sarah Stanley to help building website. 
 
 ## Text Cleaning Documentation 
 - view Text Cleaning.md document 
